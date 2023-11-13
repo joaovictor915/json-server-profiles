@@ -1,9 +1,52 @@
-{
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
-}
+[
+    {
+        "films": [
+            {
+                "name": "Encanto",
+                "genre": "action",
+                "cover": "./covers/d1.jpeg"
+            },
+            {
+                "name": "Wish",
+                "genre": "fantasia",
+                "cover": "./covers/download.jpeg"
+            },
+            {
+                "name": "Besouro Azul",
+                "genre": "action",
+                "cover": "./covers/images.jpeg"
+            }
+        ]
+    }, {
+        "films": [
+            {
+                "name": "Terrifier",
+                "genre": "romance",
+                "cover": "./covers/terrifier_2_poster_oficial.jpg"
+            },
+            {
+                "name": "O lar das crianças peculiares",
+                "genre": "terror",
+                "cover": "./covers/lardascriancaspeculiares_2.jpg"
+            },
+            {
+                "name": "Casa Gucci",
+                "genre": "drama",
+                "cover": "./covers/casa-gucci.jpg"
+            }
+        ]
+    }, {
+        "films": [
+            {
+                "name": "Veloses e Furiosos 9",
+                "genre": "action",
+                "cover": "./covers/3385237.jpg"
+            },
+            {
+                "name": "Star Wars: O despertar da força",
+                "genre": "action",
+                "cover": "./covers/starwars.jpg"
+            }
+        ]
+    }
+]
